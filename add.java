@@ -1,7 +1,7 @@
 
 public class Teesha {
 
-    public int ADDNumbers(int a , int b){
+    public int Addition(int a , int b){
         return a + b ;
     }
 
